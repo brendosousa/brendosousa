@@ -23,5 +23,10 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/brendo-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="github.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
-</div>  
+</div>
+  
+<h2 aling="center">Alguns de meus projetos</h2>  
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omarcolombari&repo=condomanage)](https://github.com/omarcolombari/condomanage)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=masterjayjay07&repo=music_club_shop)](https://github.com/masterjayjay07/music_club_shop)
