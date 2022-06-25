@@ -25,7 +25,7 @@
   <a href="github.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
 </div>
   
-<h2 aling="center">Alguns de meus projetos</h2>  
+<h2 aling="center">Alguns de meus projetos que desenvolvi em equipe</h2>  
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omarcolombari&repo=condomanage)](https://github.com/omarcolombari/condomanage)
 
