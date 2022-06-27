@@ -2,6 +2,9 @@
 
 
 - 🌱 Atualmente estudando desenvolvimento web front-end e back-end
+- 💡 Buscando sempre o novo e me inspirando em legados
+- 📓 Buscando conhecimento a cada dia na área de desenvolvimento web, na qual estamos sempre nos atualizando
+- 🔍 Procurando desafios que engrandeçam
 
 <div align="center">
   <a href="https://github.com/brendosousa">
