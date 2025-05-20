@@ -20,7 +20,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" />
-  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/php-original.svg" /> 
+  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" /> 
 </div>
   
 <h2 align="center">Redes e sites</h2>    
