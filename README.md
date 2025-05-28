@@ -28,9 +28,3 @@
   <a href="https://www.linkedin.com/in/brendo-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://brendosousa.vercel.app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/></a>
 </div>
-  
-<h2 aling="center">Alguns de meus projetos que desenvolvi em equipe</h2>  
-
-<div style="display: inline_block" align="center">
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=masterjayjay07&repo=music_club_shop)](https://github.com/masterjayjay07/music_club_shop)
-</div>
