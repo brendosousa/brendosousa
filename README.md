@@ -31,6 +31,6 @@
   
 <h2 aling="center">Alguns de meus projetos que desenvolvi em equipe</h2>  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=omarcolombari&repo=condomanage)](https://github.com/omarcolombari/condomanage)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=masterjayjay07&repo=music_club_shop)](https://github.com/masterjayjay07/music_club_shop)
+<div style="display: inline_block" align="center">
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=masterjayjay07&repo=music_club_shop)](https://github.com/masterjayjay07/music_club_shop)
+</div>
